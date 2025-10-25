@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project\\lab_06_1_rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE39AB8-BCA9-07D0-CACE-5665FB016CB2}|UnitTest6_1_rec\\UnitTest6_1_rec.vcxproj|F:\\Project\\lab_06_1_rec\\UnitTest6_1_rec\\UnitTest6_1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EE39AB8-BCA9-07D0-CACE-5665FB016CB2}|UnitTest6_1_rec\\UnitTest6_1_rec.vcxproj|solutionrelative:UnitTest6_1_rec\\UnitTest6_1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E332198-C53E-42D5-B36E-F88AC3F5F050}|lab_06_1_rec\\lab_06_1_rec.vcxproj|F:\\Project\\lab_06_1_rec\\lab_06_1_rec\\lab_06_1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E332198-C53E-42D5-B36E-F88AC3F5F050}|lab_06_1_rec\\lab_06_1_rec.vcxproj|solutionrelative:lab_06_1_rec\\lab_06_1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest6_1_rec.cpp",
+              "DocumentMoniker": "F:\\Project\\lab_06_1_rec\\UnitTest6_1_rec\\UnitTest6_1_rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest6_1_rec\\UnitTest6_1_rec.cpp",
+              "ToolTip": "F:\\Project\\lab_06_1_rec\\UnitTest6_1_rec\\UnitTest6_1_rec.cpp",
+              "RelativeToolTip": "UnitTest6_1_rec\\UnitTest6_1_rec.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T14:50:07.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_06_1_rec.cpp",
+              "DocumentMoniker": "F:\\Project\\lab_06_1_rec\\lab_06_1_rec\\lab_06_1_rec.cpp",
+              "RelativeDocumentMoniker": "lab_06_1_rec\\lab_06_1_rec.cpp",
+              "ToolTip": "F:\\Project\\lab_06_1_rec\\lab_06_1_rec\\lab_06_1_rec.cpp",
+              "RelativeToolTip": "lab_06_1_rec\\lab_06_1_rec.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T14:10:31.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
